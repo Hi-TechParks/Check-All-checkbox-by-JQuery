@@ -1,4 +1,4 @@
-// checkbox selector
+// checkbox all-check-button selector
 $("input[name=all_flag]").click(function(){
     if($(this).is(":checked")){
         // check all checkbox
